@@ -56,7 +56,7 @@ This helps evaluate company performance, profitability, and financial stability 
 ## 📁 Financial Model File
 Download the complete Excel financial model:
 
-[Download Financial Model](tata_motors.xlsx)
+[Download Financial Model](financial-model.xlsx)
 
 ---
 
